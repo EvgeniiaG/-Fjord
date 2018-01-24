@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'leafy';
+  src: url('../fonts/leafy.woff') format('woff'),
+       url('../fonts/leafy.otf') format('opentype');
+}
+@font-face {
+  font-family: 'peomyjane';
+  src: url('../fonts/peomy.woff') format('woff'),
+       url('../fonts/Peomy.otf') format('opentype');
+}
